@@ -11,7 +11,9 @@
 ## 👨‍💻 About Me
 
 Currently learning **React.js**, **Tailwind CSS**, and **TypeScript**
+
 Passionate about **Web Dev**, frontend tech, and real-world problem-solving
+
 Exploring **AI/ML**, and how tech can impact daily life
 
 
