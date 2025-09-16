@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shubham Singh</h1>
+<h1 align="center">Hi there, I'm Shubham Singh</h1>
 
 <p align="center">
   🚀 Frontend Developer Intern @ <a href="https://nextute.com" target="_blank">Nextute EdTech Pvt. Ltd.</a><br>
@@ -10,10 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **React.js**, **Tailwind CSS**, and **TypeScript**
-- 💼 Interning at **Nextute**, building modern, user-focused web applications
-- 🧠 Passionate about **Web Dev**, frontend tech, and real-world problem-solving
-- 🌐 Exploring **AI/ML**, and how tech can impact daily life
+Currently learning **React.js**, **Tailwind CSS**, and **TypeScript**
+Passionate about **Web Dev**, frontend tech, and real-world problem-solving
+Exploring **AI/ML**, and how tech can impact daily life
 
 
 ---
