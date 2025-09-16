@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Shubham Singh</h1>
 
 <p align="center">
-  🚀 Frontend Developer Intern @ <a href="https://nextute.com" target="_blank">Nextute EdTech Pvt. Ltd.</a><br>
-  🎓 B.Tech CSE | Tech Enthusiast | Community Builder<br>
-  📍 Chandigarh | I'm always down for a good coffee chat! :)
+  Frontend Developer Intern @ <a href="https://nextute.com" target="_blank">Nextute EdTech Pvt. Ltd.</a><br>
+  B.Tech CSE | Tech Enthusiast | Community Builder<br>
+  Chandigarh | I'm always down for a good coffee chat! :)
 </p>
 
 ---
@@ -17,7 +17,7 @@ Exploring **AI/ML**, and how tech can impact daily life
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,14 +33,14 @@ Exploring **AI/ML**, and how tech can impact daily life
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
-- 🧾 **BillSeparator** – Group expense manager for college trips and hangouts    
-- 🧠 Learning in public on [Instagram](https://instagram.com/shubhamrajput23_)
+-  **BillSeparator** – Group expense manager for college trips and hangouts    
+-  Learning in public on [Instagram](https://instagram.com/shubhamrajput23_)
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 <p>
   <a href="https://linkedin.com/in/www.linkedin.com/in/shubham-singh-rajput-193638243">
