@@ -2,17 +2,20 @@
 
 <p align="center">
   Full Stack Developer Intern @ <a href="https://nextute.com" target="_blank">Nextute EdTech Pvt. Ltd.</a><br>
-  B.Tech CSE   Tech Enthusiast | Community Builder<br>
+  B.Tech CSE 27' | Community Builder<br>
   Chandigarh | Always down for a good coffee chat :)
 </p>
 
 ---
 
-##  About Me
-I'm wrapping up my final year and spending most of my time building things on the web. I taught myself the MERN stack over the last year and have deployed 4–5 projects so far — some for assignments, some just because I had an idea I wanted to bring to life. I enjoy the full process, from sketching UI layouts to writing APIs that actually work. Right now, I'm learning Docker and microservices by building a social media clone, mostly because I want to understand how apps perform under real load — and honestly, it's been the most fun I've had coding so far.
+## About Me
+I'm wrapping up my final year of college, and most of my free time these days goes into building things for the web. Over the past year, I taught myself the **MERN stack** from scratch and have shipped 4-5 projects—some for college assignments, others just because I had an idea I couldn’t stop thinking about.
+
+What I love most is the entire process: from sketching out UI layouts on paper to writing backend APIs that actually work. Partly to understand how apps scale, but mostly because it’s just been the most fun I’ve had coding in a while.
+
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,11 +39,9 @@ I'm wrapping up my final year and spending most of my time building things on th
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-##  Let’s Connect
+## Let’s Connect
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-singh-engg
-
-" target="_blank">
+  <a href="https://linkedin.com/in/shubham-singh-engg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/SSR23__" target="_blank">
@@ -52,4 +53,4 @@ I'm wrapping up my final year and spending most of my time building things on th
 </p>
 
 ---
-> **“Code is not just syntax, it's a way to create solutions that help people.”** — *Shubham Singh*
+> **"Code is not just syntax, it's a way to create solutions that help people."** — *Shubham Singh*
