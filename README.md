@@ -9,11 +9,7 @@
 ---
 
 ##  About Me
-Currently learning **React.js**, **Node.js**, **Tailwind CSS**, and **TypeScript** to build end-to-end web applications.
-
-Passionate about **full-stack development**, scalable architectures, and solving real-world problems with code.
-Exploring **AI/ML** and its integration into modern web applications.
-
+I'm wrapping up my final year and spending most of my time building things on the web. I taught myself the MERN stack over the last year and have deployed 4–5 projects so far — some for assignments, some just because I had an idea I wanted to bring to life. I enjoy the full process, from sketching UI layouts to writing APIs that actually work. Right now, I'm learning Docker and microservices by building a social media clone, mostly because I want to understand how apps perform under real load — and honestly, it's been the most fun I've had coding so far.
 ---
 
 ##  Tech Stack
