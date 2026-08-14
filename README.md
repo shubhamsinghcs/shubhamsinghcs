@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Shubham Singh</h1>
 
 <p align="center">
-  Full Stack Developer Intern @ <a href="https://nextute.com" target="_blank">Nextute EdTech Pvt. Ltd.</a><br>
   B.Tech CSE 27' | Community Builder<br>
   Chandigarh | Always down for a good coffee chat :)
 </p>
